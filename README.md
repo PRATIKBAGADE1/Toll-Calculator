@@ -49,8 +49,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 
 ## Screenshots
-Screenshot 1
-IMG1.png
+
+![Alt text](IMG1.png)
 
 ### How It Works
 The Toll Calculator utilizes the TollGuru API to fetch accurate toll details based on your route and vehicle type. The polyline of the route is decoded and displayed on the Leaflet map.
