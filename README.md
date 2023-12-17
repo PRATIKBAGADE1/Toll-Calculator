@@ -11,7 +11,7 @@ The Toll Calculator is a web application that facilitates easy and informed trav
 
 ## Demo
 
-[View Demo]() <!-- Add a link to your live demo or a demo video -->
+[View Demo](IMG1.png) <!-- Add a link to your live demo or a demo video -->
 
 ## Getting Started
 
