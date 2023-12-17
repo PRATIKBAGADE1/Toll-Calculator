@@ -1,38 +1,102 @@
-.App {
-  text-align: center;
+/* App.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#tollCalculatorHeader {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #007BFF;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#calculateToll {
+  padding: 10px 15px;
+  font-size: 14px;
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-left: 0.5cm ;
 }
 
-.App-link {
-  color: #61dafb;
+#calculateToll:hover {
+  background-color: #f54d0b;
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.tollCalculator {
+  margin-bottom: 20px;
 }
+
+.tollCalculator label {
+  margin-right: 10px;
+}
+
+.tollCalculator select {
+  padding: 8px;
+  font-size: 14px;
+}
+
+.mapContainer {
+  height: 400px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+/* TollDetailsDisplay Styles */
+.tollDetails {
+  margin-top: 20px;
+}
+
+.tollDetails h3 {
+  font-size: 20px;
+  color: #007BFF;
+}
+
+.tollDetails ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.tollDetails li {
+  margin-bottom: 10px;
+}
+
+/* UserEducation.css */
+.user-education {
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.user-education h2 {
+  font-size: 20px;
+  color: #333;
+}
+
+.user-education p {
+  font-size: 16px;
+  color: #555;
+}
+
+
+/* Add more styles based on your needs */
