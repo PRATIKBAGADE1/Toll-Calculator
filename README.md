@@ -3,7 +3,8 @@
 The Toll Calculator is a web application that facilitates easy and informed travel planning by estimating toll costs along your route. It provides an intuitive interface, interactive maps, and real-time toll details for a seamless user experience.
 
 ## Language used
-- *ReactJs* - *JavaScript*
+- *ReactJs*
+- *JavaScript*
 
 ## Features
 
