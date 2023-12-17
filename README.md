@@ -11,7 +11,7 @@ The Toll Calculator is a web application that facilitates easy and informed trav
 
 ## Demo
 
-[View live](https://toll-calculator-jo76bn3ov-pratik-bagades-projects.vercel.app/) <!-- Add a link to your live demo or a demo video -->
+[View live](https://toll-calculator-ruby.vercel.app/)
 
 ## Getting Started
 
