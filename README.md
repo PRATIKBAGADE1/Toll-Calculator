@@ -63,5 +63,9 @@ The Toll Calculator utilizes the TollGuru API to fetch accurate toll details bas
 The interactive guide provides users with insights into toll calculation factors, ensuring a better understanding of the toll estimation process.
 
 
-### Acknowledgments
-
+> ### Acknowledgments
+> - Developed by :- **Pratik Bagade** (L.Y.Computer Engineer)
+> - From :- GOvernment College Of Engineering Jalgaon.
+> - 
+> - So Enjoy the games guys by downloading it.
+> - Good by...!!!!
