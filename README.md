@@ -67,5 +67,5 @@ The interactive guide provides users with insights into toll calculation factors
 > - Developed by :- **Pratik Bagade** (L.Y.Computer Engineer)
 > - From :- GOvernment College Of Engineering Jalgaon.
 > - 
-> - So Enjoy the games guys by downloading it.
+> - So Enjoy the journey by Calculating the tolls with respect your Location.
 > - Good by...!!!!
