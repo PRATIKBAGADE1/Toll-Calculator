@@ -62,15 +62,6 @@ The Toll Calculator utilizes the TollGuru API to fetch accurate toll details bas
 ### User Education
 The interactive guide provides users with insights into toll calculation factors, ensuring a better understanding of the toll estimation process.
 
-### Contributing
-Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
-
-### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ### Acknowledgments
-- Special thanks to Leaflet for the interactive map library.
-- TollGuru API for accurate toll details.
-- Hat tip to anyone whose code was used and the open-source community.
-- Inspiration: Mention any projects, articles, or individuals that inspired your work.
-- Note: Feel free to customize the README with additional sections or details specific to your project.
+
