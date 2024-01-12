@@ -17,6 +17,20 @@ The Toll Calculator is a web application that facilitates easy and informed trav
 
 [View live](https://toll-calculator-ruby.vercel.app/)
 
+## Screenshots
+
+![Alt text](IMG1.png)
+
+### How It Works
+The Toll Calculator utilizes the TollGuru API to fetch accurate toll details based on your route and vehicle type. The polyline of the route is decoded and displayed on the Leaflet map.
+
+
+## Usage
+- Open the application in your web browser.
+- Enter your waypoints and select your vehicle type.
+- Click on "Calculate Toll" to get real-time toll details.
+- Explore the interactive map, additional information, and toll details for each waypoint.
+
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
@@ -45,19 +59,8 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```bash
    npm start
 
-## Usage
-- Open the application in your web browser.
-- Enter your waypoints and select your vehicle type.
-- Click on "Calculate Toll" to get real-time toll details.
-- Explore the interactive map, additional information, and toll details for each waypoint.
 
 
-## Screenshots
-
-![Alt text](IMG1.png)
-
-### How It Works
-The Toll Calculator utilizes the TollGuru API to fetch accurate toll details based on your route and vehicle type. The polyline of the route is decoded and displayed on the Leaflet map.
 
 ### User Education
 The interactive guide provides users with insights into toll calculation factors, ensuring a better understanding of the toll estimation process.
